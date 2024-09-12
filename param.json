@@ -1,0 +1,16 @@
+{
+    "maze_files":
+    {
+        "description_file":"laby/2.txt",
+        "maze_file_png":"laby/test.png"
+    },
+    "style":{
+        "cell_size_png":20,
+        "pen_colors":{
+            "forward_pen_color": "black",
+            "backward_pen_color": "red"
+        },
+        "pen_shape":"turtle",
+        "pen_speed":"slowest"
+    }
+}
